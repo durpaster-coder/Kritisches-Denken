@@ -10,6 +10,7 @@ Vorbereitungsmaterial für die schriftliche Prüfung in der LV **Kritisches Denk
 | [checklisten/JBI_Checkliste_Qualitativ_de.md](checklisten/JBI_Checkliste_Qualitativ_de.md) | JBI Critical Appraisal Checklist für **qualitative Studien** (10 Fragen) auf Deutsch, als ausfüllbares Template mit Ausfüllhilfe je Frage und Beispiel zur Kursstudie Fehling & Dassen (2017) |
 | [checklisten/JBI_Checkliste_Quantitativ_Querschnitt_de.md](checklisten/JBI_Checkliste_Quantitativ_Querschnitt_de.md) | JBI Critical Appraisal Checklist für **analytische Querschnittstudien** (8 Fragen) auf Deutsch, als ausfüllbares Template mit Ausfüllhilfe je Frage, Beispiel zur Kursstudie Honekamp et al. (2019) und Entscheidungshilfe für weitere quantitative Designs |
 | [Ausfuellhilfe_JBI_Anwendung_und_Pruefungsworkflow.md](Ausfuellhilfe_JBI_Anwendung_und_Pruefungsworkflow.md) | Schritt-für-Schritt-Anleitung: JBI-Tool anwenden, Checkliste ausfüllen, Gesamtbewertung, Word → PDF → Drag & Drop in Moodle, plus Prüfungs-Checkliste und typische Fallen laut Moodle-Anleitung |
+| [SQ3R_Lesetechnik.md](SQ3R_Lesetechnik.md) | SQ3R-Lesetechnik (Survey–Question–Read–Recite–Review) mit Einordnung in die 4 Phasen des kritischen Lesens, Anwendung auf beide Kursstudien und ausfüllbarem Template |
 
 ## Studien mit richtigem JBI-Instrument (Ordner `studien/`)
 
