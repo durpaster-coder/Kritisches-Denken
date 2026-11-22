@@ -11,6 +11,14 @@ Vorbereitungsmaterial für die schriftliche Prüfung in der LV **Kritisches Denk
 | [checklisten/JBI_Checkliste_Quantitativ_Querschnitt_de.md](checklisten/JBI_Checkliste_Quantitativ_Querschnitt_de.md) | JBI Critical Appraisal Checklist für **analytische Querschnittstudien** (8 Fragen) auf Deutsch, als ausfüllbares Template mit Ausfüllhilfe je Frage, Beispiel zur Kursstudie Honekamp et al. (2019) und Entscheidungshilfe für weitere quantitative Designs |
 | [Ausfuellhilfe_JBI_Anwendung_und_Pruefungsworkflow.md](Ausfuellhilfe_JBI_Anwendung_und_Pruefungsworkflow.md) | Schritt-für-Schritt-Anleitung: JBI-Tool anwenden, Checkliste ausfüllen, Gesamtbewertung, Word → PDF → Drag & Drop in Moodle, plus Prüfungs-Checkliste und typische Fallen laut Moodle-Anleitung |
 
+## Studien mit richtigem JBI-Instrument (Ordner `studien/`)
+
+| Datei | Zweck |
+|---|---|
+| [studien/](studien/) | Übersicht: Zuordnung Studie → Design → richtiges JBI-Instrument |
+| [studien/Fehling_Dassen_2017_qualitativ.pdf](studien/Fehling_Dassen_2017_qualitativ.pdf) | Studie (qualitativ) + [ausgefüllte JBI-Bewertung (Checkliste Qualitativ, 10 Fragen)](studien/JBI_Bewertung_Fehling_Dassen_2017.md) |
+| [studien/Honekamp_et_al_2019_quantitativ.pdf](studien/Honekamp_et_al_2019_quantitativ.pdf) | Studie (quantitativ/Querschnitt) + [ausgefüllte JBI-Bewertung (Checkliste Querschnitt, 8 Fragen)](studien/JBI_Bewertung_Honekamp_et_al_2019.md) |
+
 ## Wichtiger Hinweis
 
 Für die Prüfung ist **ausschließlich die JBI-Version maßgeblich, die im Moodle-Kurs hinterlegt ist**.
